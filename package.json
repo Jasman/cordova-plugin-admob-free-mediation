@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-admob-free-mediation",
+  "version": "1.0.0",
+  "description": "AdMob Mediation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jasman/cordova-plugin-admob-free-mediation.git"
+  },
+  "keywords": [
+    "admob",
+    "cordova",
+    "fbads",
+    "unity"
+  ],
+  "author": "Jasman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jasman/cordova-plugin-admob-free-mediation/issues"
+  },
+  "homepage": "https://github.com/Jasman/cordova-plugin-admob-free-mediation#readme"
+}
